@@ -9093,11 +9093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekAPI\\VitekAPI.csproj",
+      "projectUniqueName": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekAPI\\VitekAPI.csproj",
       "projectName": "VitekAPI",
-      "projectPath": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekAPI\\VitekAPI.csproj",
+      "projectPath": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekAPI\\VitekAPI.csproj",
       "packagesPath": "C:\\Users\\EAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekAPI\\obj\\",
+      "outputPath": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

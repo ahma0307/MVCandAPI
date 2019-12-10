@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekSky\\VitekSky.csproj",
+      "projectUniqueName": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekSky\\VitekSky.csproj",
       "projectName": "VitekSky",
-      "projectPath": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekSky\\VitekSky.csproj",
+      "projectPath": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekSky\\VitekSky.csproj",
       "packagesPath": "C:\\Users\\EAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EAL\\Desktop\\Vitek\\VitekSky\\obj\\",
+      "outputPath": "C:\\Users\\EAL\\source\\repos\\MVCandAPI\\VitekSky\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
