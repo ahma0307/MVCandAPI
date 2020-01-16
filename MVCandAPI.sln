@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VitekSky", "VitekSky\VitekSky.csproj", "{A2FBE160-6240-47FA-B6EB-4F5F92EB2B5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VitekAPI", "VitekAPI\VitekAPI.csproj", "{D5A1B21D-1BA7-4094-BE28-784B9052EBEE}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FBE160-6240-47FA-B6EB-4F5F92EB2B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FBE160-6240-47FA-B6EB-4F5F92EB2B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FBE160-6240-47FA-B6EB-4F5F92EB2B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FBE160-6240-47FA-B6EB-4F5F92EB2B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A1B21D-1BA7-4094-BE28-784B9052EBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A1B21D-1BA7-4094-BE28-784B9052EBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A1B21D-1BA7-4094-BE28-784B9052EBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A1B21D-1BA7-4094-BE28-784B9052EBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
